@@ -115,22 +115,22 @@ isn't perfect!)
 | Hillary | Bernie |
 | ------  | -----  |
 
-|[Climate change and energy](Climate.md) | [Combating Climate Change to Save the Planet](Climate.md) |
+| [Climate change and energy](Climate.md) | [Combating Climate Change to Save the Planet](Climate.md) |
 
-|[College](College.md) | [It's Time to Make College Tuition Free and Debt Free](College.md) |
+| [College](College.md) | [It's Time to Make College Tuition Free and Debt Free](College.md) |
 
-|[Criminal justice reform](Criminal.md) | [Racial Justice](Criminal.md) |
+| [Criminal justice reform](Criminal.md) | [Racial Justice](Criminal.md) |
 
-|[Disability rights](Disability.md) | [Fighting for Disability Rights](Disability.md) |
+| [Disability rights](Disability.md) | [Fighting for Disability Rights](Disability.md) |
 
-|[Economy](Economy.md) | [Improving the Rural Economy](Economy.md) |
+| [Economy](Economy.md) | [Improving the Rural Economy](Economy.md) |
 
-|[Immigration reform](Immigration.md) | [A Fair and Humane Immigration Policy](Immigration.md) |
+| [Immigration reform](Immigration.md) | [A Fair and Humane Immigration Policy](Immigration.md) |
 
-|[LGBT equality](LGBT.md) | [Fighting for LGBT Equality](LGBT.md) |
+| [LGBT equality](LGBT.md) | [Fighting for LGBT Equality](LGBT.md) |
 
-|[Racial justice](Racial.md) | [Racial Justice](Racial.md) |
+| [Racial justice](Racial.md) | [Racial Justice](Racial.md) |
 
-|[Social Security and Medicare](Social.md) | [Strengthen and Expand Social Security](Social.md) |
+| [Social Security and Medicare](Social.md) | [Strengthen and Expand Social Security](Social.md) |
 
-|[Wall Street and corporate America](Wall.md) | [Reforming Wall Street](Wall.md) |
+| [Wall Street and corporate America](Wall.md) | [Reforming Wall Street](Wall.md) |
