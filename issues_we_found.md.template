@@ -13,6 +13,5 @@ isn't perfect!)
 | Hillary | Bernie |
 | ------  | -----  |
 {% for issue in matched_issues %}
-|[{{"%s.md" % issue[0].split()[0]}}]({{ issue[0] }}) | [{{"%s.md" % issue[0].split()[0]}}]({{ issue[1] }}) |
 |[{{ issue[0] }}]({{"%s.md" % issue[0].split()[0]}}) | [{{ issue[1] }}]({{"%s.md" % issue[0].split()[0]}}) |
 {% endfor %}
