@@ -1,0 +1,17 @@
+Here are the issues we found for Hillary:
+{% for issue in hillary_issues %}
+* {{ issue }}
+{% endfor %}
+
+Here are the issues we found for Bernie:
+{% for issue in bernie_issues %}
+* {{ issue }}
+{% endfor %}
+
+Here is the best we did at matching issues from one to the other (which we know
+isn't perfect!)
+| Hillary | Bernie |
+| ------  | -----  |
+{% for issue in matched_issues %}
+|[{{"%s.md" % issue[0].split()[0]}}]({{ issue[0] }}) | {[{{"%s.md" % issue[0].split()[0]}}]({{ issue[1] }}) |
+{% endfor %}

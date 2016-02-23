@@ -1,0 +1,5 @@
+Here's bullet points extracted on this issue from each candidate:
+
+| Hillary | Bernie |
+| ------  | -----  |
+| {{ hillary_text }} | {{ bernie_text }} |
