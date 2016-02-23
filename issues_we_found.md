@@ -113,6 +113,7 @@ Here are the issues we found for Bernie:
 Here is the best we did at matching issues from one to the other (which we know
 isn't perfect!) Click the link to view text we extracted from each candidate for
 that issue.
+
 | Hillary | Bernie |
 | ------  | -----  |
 | [Climate change and energy](Climate.md) | [Combating Climate Change to Save the Planet](Climate.md) |
