@@ -9,9 +9,10 @@ Here are the issues we found for Bernie:
 {% endfor %}
 
 Here is the best we did at matching issues from one to the other (which we know
-isn't perfect!)
+isn't perfect!) Click the link to view text we extracted from each candidate for
+that issue.
 | Hillary | Bernie |
 | ------  | -----  |
-{% for issue in matched_issues %}
+{% for issue in matched_issues -%}
 | [{{ issue[0] }}]({{"%s.md" % issue[0].split()[0]}}) | [{{ issue[1] }}]({{"%s.md" % issue[0].split()[0]}}) |
 {% endfor %}

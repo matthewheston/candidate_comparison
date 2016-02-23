@@ -111,26 +111,17 @@ Here are the issues we found for Bernie:
 
 
 Here is the best we did at matching issues from one to the other (which we know
-isn't perfect!)
+isn't perfect!) Click the link to view text we extracted from each candidate for
+that issue.
 | Hillary | Bernie |
 | ------  | -----  |
-
 | [Climate change and energy](Climate.md) | [Combating Climate Change to Save the Planet](Climate.md) |
-
 | [College](College.md) | [It's Time to Make College Tuition Free and Debt Free](College.md) |
-
 | [Criminal justice reform](Criminal.md) | [Racial Justice](Criminal.md) |
-
 | [Disability rights](Disability.md) | [Fighting for Disability Rights](Disability.md) |
-
 | [Economy](Economy.md) | [Improving the Rural Economy](Economy.md) |
-
 | [Immigration reform](Immigration.md) | [A Fair and Humane Immigration Policy](Immigration.md) |
-
 | [LGBT equality](LGBT.md) | [Fighting for LGBT Equality](LGBT.md) |
-
 | [Racial justice](Racial.md) | [Racial Justice](Racial.md) |
-
 | [Social Security and Medicare](Social.md) | [Strengthen and Expand Social Security](Social.md) |
-
 | [Wall Street and corporate America](Wall.md) | [Reforming Wall Street](Wall.md) |
