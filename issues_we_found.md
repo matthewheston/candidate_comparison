@@ -116,21 +116,31 @@ isn't perfect!)
 | ------  | -----  |
 
 |[Climate.md](Climate change and energy) | [Climate.md](Combating Climate Change to Save the Planet) |
+|[Climate change and energy](Climate.md) | [Combating Climate Change to Save the Planet](Climate.md) |
 
 |[College.md](College) | [College.md](It's Time to Make College Tuition Free and Debt Free) |
+|[College](College.md) | [It's Time to Make College Tuition Free and Debt Free](College.md) |
 
 |[Criminal.md](Criminal justice reform) | [Criminal.md](Racial Justice) |
+|[Criminal justice reform](Criminal.md) | [Racial Justice](Criminal.md) |
 
 |[Disability.md](Disability rights) | [Disability.md](Fighting for Disability Rights) |
+|[Disability rights](Disability.md) | [Fighting for Disability Rights](Disability.md) |
 
 |[Economy.md](Economy) | [Economy.md](Improving the Rural Economy) |
+|[Economy](Economy.md) | [Improving the Rural Economy](Economy.md) |
 
 |[Immigration.md](Immigration reform) | [Immigration.md](A Fair and Humane Immigration Policy) |
+|[Immigration reform](Immigration.md) | [A Fair and Humane Immigration Policy](Immigration.md) |
 
 |[LGBT.md](LGBT equality) | [LGBT.md](Fighting for LGBT Equality) |
+|[LGBT equality](LGBT.md) | [Fighting for LGBT Equality](LGBT.md) |
 
 |[Racial.md](Racial justice) | [Racial.md](Racial Justice) |
+|[Racial justice](Racial.md) | [Racial Justice](Racial.md) |
 
 |[Social.md](Social Security and Medicare) | [Social.md](Strengthen and Expand Social Security) |
+|[Social Security and Medicare](Social.md) | [Strengthen and Expand Social Security](Social.md) |
 
 |[Wall.md](Wall Street and corporate America) | [Wall.md](Reforming Wall Street) |
+|[Wall Street and corporate America](Wall.md) | [Reforming Wall Street](Wall.md) |
