@@ -63,6 +63,7 @@ def get_text_for_bernie_issue(bernie_soup, issue):
     return bullet_points
 
 def extract_bullet_points_from_url(url):
+    print url
     soup = BeautifulSoup(urllib2.urlopen(urllib2.Request(url, headers={ 'User-Agent': random.choice(USER_AGENTS) })).read(), "html.parser")
     bullet_points = soup.find_all("li")
     text_points = [point.text.replace("\n", "") for point in bullet_points]
@@ -81,8 +82,8 @@ if __name__ == "__main__":
     for issue in matched_issues:
         issue_template = Template(open("issue_comparison.md.template").read())
         hillary_text, bernie_text = get_text_for_issue(hillary_soup, bernie_soup, issue)
-        hillary_text = " ".join(hillary_text)
-        bernie_text = " ".join(bernie_text)
+        hillary_text = "<ul><li>" + "</li><li>".join(hillary_text) + "</li></ul>"
+        bernie_text = "<ul><li>" + "</li><li>".join(bernie_text) + "</li></ul>"
         with codecs.open(issue[0].split()[0] + ".md", "w", "utf-8") as specific_issue:
             specific_issue.write(issue_template.render(hillary_text=hillary_text, bernie_text=bernie_text))
-        time.sleep(15) / Be kind, take time.
+        time.sleep(15) # Be kind, take time.
